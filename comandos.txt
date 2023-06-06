@@ -1,0 +1,44 @@
+Comandos que realicé durante el examen
+
+  257  git status
+  258  git init
+  259  git status
+  260  git remote add origin https://github.com/LorenaPalaciosR/20230605-LorenaPalacios.git
+  261  git remote add origin https://github.com/LorenaPalaciosR/20230605-LorenaPalacios.git
+  262  git remote -v
+  263  touch comandos.txt main.js index.html
+  264  ls -a
+  265  git add .
+  266  git status
+  267  git commit -m "commit 01 de LorenaPalacios"
+  268  git push origin main
+  269  git status
+  270  git branch feature
+  271  git checkout feature
+  272  mkdir Hardware Software Seguridadinformatica
+  273  ls -a
+  274  touch resumen.txt/Hardware
+  275  touch Hardware/resumen.txt Software/resumen.txt Seguridadinformatica/resumen.txt
+  276  ls -a
+  277  ls -R
+  278  git status
+  279  git add .
+  280  git commit -m "commit 02 de LorenaPalacios"
+  281  git push origin feature
+  282  git status
+  283  git checkout main
+  284  mv main.js resumenHardware.txt
+  285  ls -a
+  286  mv index.html resumenSoftware.txt
+  287  ls -a
+  288  nano resumenSoftware.txt
+  289  nano resumenSoftware.txt
+  290  nano resumenHardware.txt
+  291  nano resumenHardware.txt
+  292  history
+  293  nano comandos.txt
+  294  git status
+  295 git add .
+  296 git commit -m "commit 3 de LorenaPalacios"
+ 297 git push origin main
+

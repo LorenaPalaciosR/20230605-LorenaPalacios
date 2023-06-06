@@ -1,0 +1,5 @@
+3 memorias principales de la computadora
+
+1) ROM
+2) Memoria RAM
+3) Caché 
